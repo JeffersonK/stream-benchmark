@@ -1,0 +1,20 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /stream/FTP/Code/Versions</title>
+ </head>
+ <body>
+<h1>Index of /stream/FTP/Code/Versions</h1>
+<pre><img src="/icons/blank.gif" alt="Icon "> <a href="?C=N;O=A">Name</a>                    <a href="?C=M;O=A">Last modified</a>      <a href="?C=S;O=A">Size</a>  <a href="?C=D;O=A">Description</a><hr><img src="/icons/back.gif" alt="[DIR]"> <a href="/stream/FTP/Code/">Parent Directory</a>                             -   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="stream_tuned.f">stream_tuned.f</a>          12-Dec-2004 13:47   15K  
+<img src="/icons/text.gif" alt="[TXT]"> <a href="stream_omp.c">stream_omp.c</a>            14-Mar-2009 10:02   11K  
+<img src="/icons/text.gif" alt="[TXT]"> <a href="stream_mpi.f">stream_mpi.f</a>            27-May-2003 12:50   18K  
+<img src="/icons/text.gif" alt="[TXT]"> <a href="stream_d.f">stream_d.f</a>              27-May-2003 13:14   14K  
+<img src="/icons/text.gif" alt="[TXT]"> <a href="stream_d.c">stream_d.c</a>              10-Jan-2003 17:12  5.4K  
+<img src="/icons/text.gif" alt="[TXT]"> <a href="second_cpu.f">second_cpu.f</a>            08-Apr-2003 11:25  483   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="second_cpu.c">second_cpu.c</a>            08-Apr-2003 11:25  287   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="Old/">Old/</a>                    19-May-2006 07:50    -   
+<img src="/icons/folder.gif" alt="[DIR]"> <a href="Experimental/">Experimental/</a>           05-Apr-2011 14:25    -   
+<hr></pre>
+<address>Apache/2.2.0 (Unix) DAV/2 mod_ssl/2.2.0 OpenSSL/0.9.7i mod_pubcookie/3.3.3 mod_wsgi/2.6 Python/2.5 PHP/5.2.9 Server at <a href="mailto:webteam@cs.virginia.edu">www.cs.virginia.edu</a> Port 80</address>
+</body></html>
